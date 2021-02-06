@@ -1,0 +1,13 @@
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\bin\Debug\netcoreapp3.1\collections.exe
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\bin\Debug\netcoreapp3.1\collections.deps.json
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.json
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.dev.json
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\bin\Debug\netcoreapp3.1\collections.dll
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\bin\Debug\netcoreapp3.1\collections.pdb
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.csprojAssemblyReference.cache
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfoInputs.cache
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfo.cs
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.csproj.CoreCompileInputs.cache
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.dll
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.pdb
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\collections\obj\Debug\netcoreapp3.1\collections.genruntimeconfig.cache

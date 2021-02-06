@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\collections\\collections.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\collections\\collections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\collections\\collections.csproj",
+        "projectName": "collections",
+        "projectPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\collections\\collections.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\collections\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
